@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/idc/firstfirebaseapp/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/idc/firstfirebaseapp/app/src/main/res/layout/activity_chat.xml" value="0.25" />
+        <entry key="..\:/idc/firstfirebaseapp/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/idc/firstfirebaseapp/app/src/main/res/layout/chat_message.xml" value="0.34692028985507245" />
       </map>
     </option>
   </component>
